@@ -1,0 +1,19 @@
+{
+  "name": "scuffedtext",
+  "version": "1.0.0",
+  "description": "Converts normal text into scuffed text, perfect for mocking people on the internet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaphodAndo/ScuffedText.git"
+  },
+  "author": "Ethan Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZaphodAndo/ScuffedText/issues"
+  },
+  "homepage": "https://github.com/ZaphodAndo/ScuffedText#readme"
+}
