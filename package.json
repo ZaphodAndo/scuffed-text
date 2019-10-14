@@ -1,6 +1,6 @@
 {
   "name": "scuffed-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts normal text into scuffed text, perfect for mocking people on the internet.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ZaphodAndo/scuffed-text/issues"
   },
-  "homepage": "https://github.com/ZaphodAndo/scuffed-text#readme"
+  "homepage": "https://github.com/ZaphodAndo/scuffed-text#readme",
+  "keywords": [
+    "troutspeak",
+    "alternating caps",
+    "meme",
+    "backend"
+  ]
 }
