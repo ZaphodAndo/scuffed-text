@@ -14,7 +14,7 @@ TBH I dont have a clue myself I just made this for the meme. 🤷‍
 
 ## Example usage
 ```javascript
-const converter = require('scuffed-text');
+import converter from 'scuffed-text';
 
 let outcome = converter('this is an example of scuffed text');
 console.log('Outcome: ', outcome);
