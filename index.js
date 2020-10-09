@@ -21,4 +21,4 @@ let converter = (input) => {
   }
 };
 
-module.exports = converter;
+export default converter;
